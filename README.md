@@ -1,6 +1,7 @@
-## Your First App
+## Restaurant Review Viewer in a city
 
-This app displays the name of the requester of a freshdesk ticket in the ticket_sidebar placeholder
+This app displays the restaurants with the most rating in the city. This app is built as an integration for freshdesk.
+The app uses yelp fusion api for deriving restaurant data.
 
 ### Files and Folders
     .
@@ -16,5 +17,5 @@ This app displays the name of the requester of a freshdesk ticket in the ticket_
     ├── config                    A folder to place all the configuration files
     │   └── iparams.json
     └── manifest.json             A JSON file holding meta data for app to run on platform
+    
 
-Explore [more of app sample codes](https://github.com/freshworks/marketplace-sample-apps) on the Freshworks github respository.
